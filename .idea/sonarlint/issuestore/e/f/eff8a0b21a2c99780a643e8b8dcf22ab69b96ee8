@@ -1,0 +1,24 @@
+
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8±¤ïƒİ.
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å„Æî8ƒöƒİ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¾ ŠĞ8û±„İ.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ğ­Ì8ïà—„İ.
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ÿïĞ„İ.
+C
+java:S1659"&Declare "balance2" on a separate line.(…‹€´8²¿†İ.
+?
+java:S1659""Declare "dif2" on a separate line.(œÖ¡¾8äÜİİ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(šÎışüÿÿÿÿ8†‹€İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íïïê8‘¢·ÿÜ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8±¤ïƒİ.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ö†ôşÿÿÿÿ8Š±÷ƒİ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ˆƒ«ê8•‘Á‚İ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ˆƒ«ê8İ÷¿‚İ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(šÎışüÿÿÿÿ8†‹€İ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ã‘½øÿÿÿÿ8ÎíÙƒİ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(šé®8©ÍŞƒİ.
